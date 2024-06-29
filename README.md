@@ -5,16 +5,18 @@
 ## 环境配置
 
 确保你已安装以下依赖项：
-- Python 3.7+
-- PyTorch
-- imageio
-- tqdm
-- matplotlib
-- tensorboard
-- numpy
+torch
+torchvision>=0.9.1
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard>=2.0
+tqdm
+opencv-python
 
 你可以使用以下命令安装所需的包：
-```bash
+
 pip install -r requirements.txt
 
 数据准备
