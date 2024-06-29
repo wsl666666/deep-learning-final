@@ -19,7 +19,7 @@ opencv-python
 
 pip install -r requirements.txt
 
-数据准备
+## 数据准备
 room 数据
 
 官网下载
@@ -37,7 +37,7 @@ https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1
 ————————————————
 
                           
-模型运行：
+## 模型运行：
 
 要运行模型，请使用以下命令：
 
@@ -47,7 +47,7 @@ python run_nerf.py --config configs/room.txt
 
 
 
-TensorBoard 可视化
+## TensorBoard 可视化
 要使用 TensorBoard 可视化训练过程，请运行：
 
 
