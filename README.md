@@ -22,15 +22,13 @@ room 数据
 
 官网下载
 
+
 https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1
-https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1
-![image](https://github.com/wsl666666/deep-learning-final/assets/65800810/2806bbf3-6ce2-41e1-8eb2-21a4fe10ff73)
 
 
+在压缩文件里面找到room数据集保存在相应的路径下：C:\COLMAP\nerf-pytorch\data\nerf_llff_data\room
 
 
-安装好后的数据集文件夹（必须如此）：
-![image](https://github.com/wsl666666/deep-learning-final/assets/65800810/95aefe3d-3644-4676-ab6f-66369e450e0b)
 
 
 
